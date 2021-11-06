@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll/update/2021/11/06/welcome-to-jekyll.html</loc>
-<lastmod>2021-11-06T22:52:29+09:00</lastmod>
-</url>
-<url>
-<loc>/about/</loc>
-</url>
-<url>
-<loc>/</loc>
-</url>
-<url>
 <loc>/anime/greencycle.html</loc>
 <lastmod>2021-10-31T17:57:06+09:00</lastmod>
 </url>
